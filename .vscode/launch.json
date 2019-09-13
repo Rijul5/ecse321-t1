@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoGit",
+            "request": "launch",
+            "mainClass": "DemoGit",
+            "projectName": "demo1_674658ab"
+        }
+    ]
+}
